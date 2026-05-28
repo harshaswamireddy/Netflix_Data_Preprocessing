@@ -1,4 +1,4 @@
-# Task 1 – Data Cleaning and Preprocessing
+# Data Cleaning and Preprocessing
 
 ## Objective
 Clean and preprocess a raw dataset to make it structured and analysis-ready using Python and Pandas.
