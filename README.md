@@ -27,5 +27,5 @@ A cleaned and structured dataset ready for analysis and visualization.
 - Raw dataset (`netflix_titles.csv`)
 - Cleaned dataset (`cleaned_netflix_titles.csv`)
 - Jupyter/Colab notebook (`Task1_Netflix_Data_Cleaning.ipynb`)
-- Screenshots (optional)
-- This README file
+- Screenshots 
+- README file (README.md)
